@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "group": "Group 1",
+      "idValue": "123",
+      "dropdownValue": "EN"
+    },
+    {
+      "id": 2,
+      "group": "Group 2",
+      "idValue": "456",
+      "dropdownValue": "PS"
+    }
+  ]
+}
