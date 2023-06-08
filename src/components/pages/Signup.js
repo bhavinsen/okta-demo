@@ -15,7 +15,7 @@ const Signup = () => {
           </div>
           <div className="flex flex-col gap-4">
             <div className="flex gap-4 sm:flex-nowrap flex-wrap">
-              <Button content="Email Adress" className="w-full hover:border-indigo-500 text-white bg-[#267ec2] border-[#267ec2] hover:bg-white" hover={"bg-black"} />
+              <Button content="Email Adress" className="w-full hover:border-indigo-500 text-white bg-[#267ec2] border-[#267ec2] hover:bg-white" />
               <Inputfild
                 type="email"
                 placeholder="Enter your Email"
@@ -23,7 +23,7 @@ const Signup = () => {
               />
             </div>
             <div className="flex gap-4 sm:flex-nowrap flex-wrap">
-              <Button content="Password" className="w-full hover:border-indigo-500 text-white bg-[#267ec2] border-[#267ec2] hover:bg-white" hover={"bg-black"} />
+              <Button content="Password" className="w-full hover:border-indigo-500 text-white bg-[#267ec2] border-[#267ec2] hover:bg-white" />
               <Inputfild
                 type="Password"
                 placeholder="Enter your Password"

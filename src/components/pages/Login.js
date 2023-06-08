@@ -43,7 +43,7 @@ const Login = () => {
     <div className="flex justify-center items-center h-screen bg-gray-100">
       <div className="space-y-4 bg-white px-3 py-7 sm:px-6 rounded-lg md:max-w-2xl">
         <div className="flex gap-4 xs:flex-nowrap flex-wrap ">
-          <Button content="Group" className="sm:w-[102px] w-full " hover={"bg-indigo-500"}  />
+          <Button content="Group" className="sm:w-[102px] w-full " hover={"bg-black"}  />
           <div className="sm:w-auto w-full">
             <Inputfild
               type="text"
