@@ -11,6 +11,11 @@
       "group": "Group 2",
       "idValue": "456",
       "dropdownValue": "PS"
+    },
+    {
+      "id": 3,
+      "group": "",
+      "dropdownValue": ""
     }
   ]
 }

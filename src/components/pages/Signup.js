@@ -10,8 +10,8 @@ const Signup = () => {
     <>
       <div className="flex h-screen justify-center items-center bg-[#267ec2] px-3">
         <div className="bg-white px-3 py-7 sm:px-6 rounded-lg md:max-w-2xl">
-          <div className="w-36 mx-auto mb-7">
-            <Oktalogo color="#fff" />
+          <div className="w-20 mx-auto mb-7">
+            <Oktalogo color="#000" />
           </div>
           <div className="flex flex-col gap-4">
             <div className="flex gap-4 sm:flex-nowrap flex-wrap">
